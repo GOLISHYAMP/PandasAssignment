@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductCategory,Quantity,Price,OrderDate
+10001,1,Electronics,2,250.00,2024-01-15
+10002,2,Clothing,5,50.00,2024-02-20
+10003,3,Electronics,1,300.00,2024-03-05
+10004,4,Books,3,20.00,2024-04-10
+10005,1,Clothing,10,45.00,2024-05-15
+10006,2,Books,2,25.00,2024-06-20
+10007,5,Electronics,3,150.00,2024-07-25
+10008,3,Clothing,4,60.00,2024-08-15
+10009,4,Books,5,18.00,2024-09-20
+10010,1,Electronics,1,350.00,2024-10-25
